@@ -1,0 +1,16 @@
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\obj\Debug\OA.Service.csproj.CoreCompileInputs.cache
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\OA.Service.dll
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\OA.Service.pdb
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\OA.Data.dll
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\OA.Repo.dll
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\netstandard.dll
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\OA.Data.pdb
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\OA.Data.dll.config
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\OA.Repo.pdb
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\obj\Debug\OA.Service.csprojAssemblyReference.cache
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\obj\Debug\OA.Service.csproj.CopyComplete
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\obj\Debug\OA.Service.dll
+C:\Users\kv111\source\repos\OnionArchitecture\OA.Service\obj\Debug\OA.Service.pdb
